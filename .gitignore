@@ -1,23 +1,25 @@
-#eclipse
-.project
-.classpath
-.metadata
-org.*
-bin
+## gradle
+/.gradle
+/build
+/gradle
+/gradlew
+/gradlew.bat
 
-#idea
-*.iml
-*.ipr
-*.iws
-.idea
-out
+## ForgeGradle
+/run
 
-#gradle
-build
-.gradle
+## eclipse
+/eclipse
+/.settings
+/.metadata
+/.classpath
+/.project
+/bin
 
-#runtime
-run
-
-#mac
-.DS_Store
+## intellij
+/out
+/.idea
+/*.iml
+/*.ipr
+/*.iws
+/atlassian-ide-plugin.xml
