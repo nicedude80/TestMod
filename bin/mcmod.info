@@ -1,0 +1,16 @@
+[
+{
+  "modid": "LotheransHallTestMod",
+  "name": "Test Mod",
+  "description": "Test Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sir_Valiance", "nicedude80", "HSTF", "81throw"],
+  "credits": "The Forge and FML guys, for making Forge and FML",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
