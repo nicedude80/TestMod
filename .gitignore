@@ -1,20 +1,20 @@
 ## gradle
-.gradle/
-build/
-gradle
-gradlew
-gradlew.bat
+/.gradle/
+/build/
+/gradle
+/gradlew
+/gradlew.bat
 
 ## ForgeGradle
-run/
+/run/
 
 ## eclipse
-eclipse/
-.settings/
-.metadata
-.classpath
-.project
-bin/
+/eclipse/
+/.settings/
+/.metadata
+/.classpath
+/.project
+/bin/
 
 ## intellij
 /out
